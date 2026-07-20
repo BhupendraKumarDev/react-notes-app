@@ -77,7 +77,7 @@ react-notes-app/
 
 ## 👨‍💻 Author
 
-**Prince Yadav**
+**Bhupendra Kumar**
 
 - GitHub: https://github.com/Bhupendra-Kumar-1
 - LinkedIn: https://www.linkedin.com/in/bhupendra-kumar-dev/
